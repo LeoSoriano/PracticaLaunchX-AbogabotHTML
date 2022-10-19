@@ -25,7 +25,7 @@ Asi mismo el administrador podra ver los pagos efectuados y los que no se hicier
 
 ## Buyer Persona
 
-![Buyer Persona](IImagenes/BuyerPersona.jpg)
+![Buyer Persona](Imagenes/BuyerPersona.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------
 
