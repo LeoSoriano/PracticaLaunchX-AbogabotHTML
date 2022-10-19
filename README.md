@@ -19,19 +19,19 @@ Asi mismo el administrador podra ver los pagos efectuados y los que no se hicier
 
 ## Flujo de Trabajo
 
-![Flowchart](Imagenes\Flowchart.jpg)
+![Flowchart](Imagenes/Flowchart.jpg)
 
 ----------------------------------------------------------------------------------------------------
 
 ## Buyer Persona
 
-![Buyer Persona](Imagenes\BuyerPersona.jpg)
+![Buyer Persona](IImagenes/BuyerPersona.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------
 
 ## Publico Objetivo
 
-![TargetAudience](Imagenes\TargetAudience.jpg)
+![TargetAudience](Imagenes/TargetAudience.jpg)
 
 ----------------------------------------------------------------------------------------------------------------------
 
