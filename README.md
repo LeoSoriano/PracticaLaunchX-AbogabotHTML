@@ -37,7 +37,7 @@ Asi mismo el administrador podra ver los pagos efectuados y los que no se hicier
 
 ## UX/UI
 
-![UX/UI](Imagenes\ABOGABOT.png)
+![UX/UI](Imagenes/ABOGABOT.png)
 
 
 ------------------------------------------------------------------------------------------------------------------------
